@@ -9,7 +9,7 @@
 --roboto-mono: "Roboto Mono", monospace;
 }
 *{
-    font-weight:400;
+    font-weight:200px;
 
 }
 
@@ -27,6 +27,7 @@ body{
 .titulo-secundario{
     font-size: 24px;
 }
+
 .conteudo-senha{
     margin-top: 80px;
     background: var(--fundo-senha);
